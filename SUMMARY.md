@@ -8,3 +8,7 @@
 * [Untitled](bootstrap/untitled-1.md)
 * [Untitled](bootstrap/untitled-2.md)
 
+## beetl模板
+
+* [beetl安装](beetl-mo-ban/beetl-an-zhuang.md)
+
